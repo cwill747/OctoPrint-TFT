@@ -67,3 +67,4 @@ prepare-internal:
 
 clean:
 	rm -rf ${BUILD_PATH}
+	rm debian/changelog
